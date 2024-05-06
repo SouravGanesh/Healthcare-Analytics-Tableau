@@ -7,7 +7,7 @@ Designed PostgreSQL data models for a healthcare dataset, optimizing the databas
 The dataset was downloaded from [Synthea](https://synthetichealth.github.io/synthea/), available in text format.
 
 ### PostgreSQL Setup
-1. Create tables in PostgreSQL using the code available in 'SQL Queries - DDL'.
+1. Create tables in PostgreSQL using the code available in `SQL Queries - DDL`.
 2. Import data from flat files using the import wizard.
 
 ### Business Requirements
@@ -28,7 +28,7 @@ Come up with a flu shots dashboard for 2022 that does the following:
 - Age to receive shot is 6 months or older.
 
 ### SQL Queries
-Refer to 'Table Queries - DQL' for efficient SQL queries to meet the business requirements.
+Refer to `Table Queries - DQL`  for efficient SQL queries to meet the business requirements.
 
 ### Tableau Visualization
 1. Download the filtered data from query output.
