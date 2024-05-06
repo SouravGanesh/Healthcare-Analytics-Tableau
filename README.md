@@ -39,4 +39,4 @@ Refer to 'Table Queries - DQL' for efficient SQL queries to meet the business re
 ### Published Dashboard
 You can view my published dashboard [here](https://public.tableau.com/app/profile/sourav.ganesha/viz/FluShotsDashboard_17149365319030/Dashboard1).
 
-![Main Diagram](Architecture/architecture.png "Main Diagram")
+![Main Diagram](images/Dashboard-Screenshot.PNG "Main Dashboard")
